@@ -1,0 +1,20 @@
+LEARN CSS BOX MODEL.
+
+
+BASIC COMPONENTS OF REACT NATIVE;-
+
+1. VIEW  - used same as <div> tag .
+2.STATE - learn bitch on your own
+3. PROPS- ditto
+4. Style;- 3 types- 1. Inline 2. Internal 3. External
+React Native uses 2 type . inline or internal(stylesheet) .
+
+STYLESHEET - creates a style object . In Native , each  core component (text , view , scrollview etc) expects style object .
+5. Flex Layout - Parent bg will not be visible when chlid comp are presnt.
+
+
+
+
+
+
+
